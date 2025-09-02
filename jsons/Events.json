@@ -293,7 +293,7 @@
 	
 	{
 		"name": "Modern Olympics",
-		"text": "Gli archeologi hanno scoperto che i nostri antenati dell'antichità partecipavano ogni quattro anni a una grande competizione sportiva chiamata "Olimpiadi" per placare gli dei.",
+		"text": "Gli archeologi hanno scoperto che i nostri antenati dell'antichità partecipavano ogni quattro anni a una grande competizione sportiva chiamata Olimpiadi per placare gli dei.",
 		"choices": [
 			{ "text": "Ho sentito parlare di alcune nazioni che vorrebbero creare un'organizzazione per far rivivere questi giochi. Non vedo perché non dovremmo unirci!",
 			  "uniques": [	"Gain a free [IOC Membership] [in capital]" ] }]
