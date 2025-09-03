@@ -70,7 +70,7 @@
 
 	{
 		"name": "The Guest Star",
-		"text": "È l'anno 1054, una stella è apparsa nel cielo. Brilla con uno splendore mozzafiato, incantando l'intera nazione. L'evento è sicuramente di grande importanza.",
+		"text": "È l'anno 1054 secondo alcune civiltà, in ogni caso, una nuova stella è apparsa improvvisamente nel cielo. Brilla con uno splendore mozzafiato, incantando i popoli di tutta la Terra. L'evento è sicuramente di grande importanza.",
 		"choices": [
 			{ "text": "Che bellezza!",
 			  "uniques": [ "[1] free [Great Artist] units appear"]},
