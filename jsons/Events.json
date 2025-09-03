@@ -723,7 +723,7 @@
 			  		"[-20 Happiness] [in all cities] <for [2] turns>",
 				  	"Nullifies [Science] [in all cities] <for [2] turns>",
 				  	"Nullifies [Culture] [in all cities] <for [2] turns>",
-			  		"[+100]% [Food] [in all cities] <for [100] turns>",] }]
+			  		"[+100]% [Food] [in all cities] <for [100] turns>"] }]
   	},
 
 	{
@@ -741,7 +741,7 @@
 
 			{ "text": "Foriegn empires have taken interest in our decorative Wampum beads. By producing more of them and selling them to these people, we will surely benefit.",
 			  "uniques": [	"[+3 Gold, +2 Production] from every [Longhouse] <for [20] turns>",
-			  		"[+3 Culture] from every [Luxury] <for [9999] turns>",] }]
+			  		"[+3 Culture] from every [Luxury] <for [9999] turns>"] }]
   	},
 
 		{
