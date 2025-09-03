@@ -50,14 +50,14 @@
 		"Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
          // -------------------------------------------------
          // O FORTUNA
-        "Triggers a [Alluvione Locale] event <for [Major] Civilizations> <upon turn end> <with [5]% chance>",
-         "Triggers a [Siccità Moderata] event <for [Major] Civilizations> <upon turn end> <with [5]% chance>",
-         "Triggers a [Tempesta Devastante] event <for [Major] Civilizations> <upon turn end> <with [5]% chance>",
+        "Triggers a [Alluvione Locale] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
+         "Triggers a [Siccità Moderata] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
+         "Triggers a [Tempesta Devastante] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
 
-         "Triggers a [Invasione di Cavallette] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
-         "Triggers a [Grande Alluvione] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
-          "Triggers a [Epidemia Locale] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
-          "Triggers a [Grande Siccità] event <for [Major] Civilizations> <upon turn end> <with [1]% chance>",
+         "Triggers a [Invasione di Cavallette] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
+         "Triggers a [Grande Alluvione] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
+          "Triggers a [Epidemia Locale] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
+          "Triggers a [Grande Siccità] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]>",
 
           "Triggers a [Eruzione Vulcanica] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns>",
           "Triggers a [Grande Terremoto] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <every [5] turns>",
