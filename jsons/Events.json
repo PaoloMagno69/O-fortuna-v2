@@ -782,7 +782,7 @@
       {
         "text": "Faremo tutti gli interventi possibili per supportare il nostro popolo!",
         "uniques": [
-          "Gain [-50] [Gold]",
+          "Gain [-1] times the cost of [Warrior] [Gold]", // PROVA COSTO CRESCENTE LEGATO AL GUERRIERO
           "[-1 Food] [in all cities] <for [3] turns>",
           "[+2 Happiness] [in all cities] <for [10] turns>",
           "Display message to all players: \"Una civiltà ha reagito a un'alluvione costruendo argini e opere idrauliche.\""
